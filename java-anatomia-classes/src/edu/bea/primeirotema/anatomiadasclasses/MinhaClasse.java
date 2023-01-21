@@ -1,3 +1,5 @@
+package edu.bea.primeirotema.anatomiadasclasses;
+//aulas 01,02,03
 public class MinhaClasse {
 
     public static void main(String[] args) {
@@ -13,7 +15,7 @@ public class MinhaClasse {
         final String NOME_COMPLETO = nomeCompleto(nome, SOBRE_NOME);
 
         System.out.println(NOME_COMPLETO);
-
+        System.out.println("Tem "+_idade+" anos, e é do sexo "+$sexo);
     }
 
     // diferente do static void que nao retorna nada, apenas executa, metodos de
