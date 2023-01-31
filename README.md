@@ -17,5 +17,5 @@ Composto por 6 aulas:
 
 ## [Operadores](https://github.com/BeaCavalheiro/Dio_JAVA/tree/main/OPERADORES)
 - [x] Aula 02:
-- [ ] Aula 03:
+- [X] Aula 03:
 - [ ] Aula 04:
