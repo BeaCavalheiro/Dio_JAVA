@@ -21,4 +21,12 @@ public class Operadores {
         num--; // primeiro imprimi depois decrementa
 
     }
+    public void Ternario(int num) {
+       int a,b;
+       a=1;
+       b=2;
+       
+
+    }
+    
 }
