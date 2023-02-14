@@ -9,7 +9,7 @@ package edu.bea.primeirotema.anatomiadasclasses;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         //aula sobre identação e leitura do codigo
-        int mediaFinal = 6;
+        int mediaFinal = 10;
         if (mediaFinal < 6)
             System.out.println("REPROVADO");
         else if (mediaFinal == 6)
